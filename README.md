@@ -15,3 +15,5 @@ Stay alive until the 22second century.
 ### What am I
 
 I enjoy solving problems with infrastructure things like aqtinstall, install-qt-action, msvc-dev-cmd, create-dmg, CQtDeployer, AppImage, etc.
+
+That's because I always rely on the infrastructure. I can't do anything without a base.
